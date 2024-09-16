@@ -1,7 +1,9 @@
 # React + Vite + Tailwind CSS
 
 Set-up Tailwind: https://tailwindcss.com/docs/installation/framework-guides
+
 CHEATSHEET: https://www.creative-tim.com/twcomponents/cheatsheet
+
 Code PLayground: https://play.tailwindcss.com/EpLQBdLfE1
 
 Laptop:
