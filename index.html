@@ -1,0 +1,52 @@
+<!-- 👇🏼This is how lay out introduce -->
+<!--Smaller Screen 2 column -->
+<h1 class="mt-7 text-center font-black">TWO DIVISION</h1>
+<div class="grid-col-2 m-4 grid gap-4 sm:grid-cols-2">
+  <div class="min-h-[100px] rounded-lg bg-orange-500 shadow"></div>
+  <div class="min-h-[100px] rounded-lg bg-teal-500 shadow"></div>
+</div>
+<!-- ------------------------------------------------------------- -->
+
+<h1 class="mt-7 text-center font-black">THREE DIVISION</h1>
+<!--                                          👇🏼3 grid -->
+<div class="grid-col-2 m-4 grid gap-4 sm:grid-cols-3">
+  <div class="min-h-[100px] rounded-lg bg-orange-500 shadow"></div>
+  <div class="min-h-[100px] rounded-lg bg-teal-500 shadow"></div>
+  <div class="min-h-[100px] rounded-lg bg-red-500 shadow"></div>
+</div>
+
+<h2 class="text-center font-black">FOUR DIVISION</h2>
+<!--               grid-cols-3 by removing this    -->
+<div class="m-4 grid gap-4 sm:grid-cols-4">
+  <div class="min-h-[100px] rounded-lg bg-orange-500 shadow"></div>
+  <div class="min-h-[100px] rounded-lg bg-teal-500 shadow"></div>
+  <div class="min-h-[100px] rounded-lg bg-red-500 shadow"></div>
+  <div class="min-h-[100px] rounded-lg bg-purple-500 shadow"></div>
+</div>
+<!-- ------------------------------------------------------------- -->
+
+<h1 class="mt-7 text-center font-black">NON EQUAL SECTION</h1>
+<p class="text-center font-thin">2:10 ratio</p>
+
+<!-- IN the DESIGN WORLD THEY USUSALLY have grid colum 12 -->
+<!-- And the inner child to occupy as many column needed -->
+<!-- sm: == BIgger screen -->
+<div class="m-4 grid grid-cols-2 gap-4 sm:grid-cols-12">
+  <!--          👇🏼take two column -->
+  <div class="min-h-[100px] rounded-lg bg-orange-500 shadow sm:col-span-2"></div>
+  <!--  -->
+  <div class="min-h-[100px] rounded-lg bg-teal-500 shadow sm:col-span-10"></div>
+</div>
+<!-- ------------------------------------------------------------- -->
+
+<h1 class="mt-7 text-center font-black">NON EQUAL SECTION</h1>
+<p class="text-center font-thin">Tailwind Like</p>
+<p class="text-center font-thin">3:6:3 ratio</p>
+
+<div class="m-4 grid gap-4 sm:grid-cols-12">
+  <!-- "hidden hides the element in smaller screen" -->
+  <div class="hidden min-h-[100px] rounded-lg bg-orange-500 shadow sm:col-span-3 sm:block"></div>
+  <div class="min-h-[100px] rounded-lg bg-teal-500 shadow sm:col-span-6"></div>
+  <!-- Hidden on smaller screen -->
+  <div class="hidden min-h-[100px] rounded-lg bg-purple-500 shadow sm:col-span-3 sm:block"></div>
+</div>
