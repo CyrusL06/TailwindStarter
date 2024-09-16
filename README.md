@@ -9,4 +9,5 @@ Laptop:
 
 Phone:
 
-![image](https://github.com/user-attachments/assets/d9ea00d8-0f72-4b48-9a78-0b972ad5936f)
+![image](https://github.com/user-attachments/assets/ec8df0d4-a5e2-4875-8fc7-e9a1097b7298)
+
