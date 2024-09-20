@@ -10,7 +10,7 @@ Learning the basics of tailwind with the support of flexbox Froggy andsome onlin
 
 [🖼️Tailwind Design Practice + Picture](#Tailwind-Design-Practice-+-Picture)
 
-#------------
+
 When writing Tailwind CSS code, organizing your structure is key to keeping it readable, maintainable, and scalable.
 
 
