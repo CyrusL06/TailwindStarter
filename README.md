@@ -1,4 +1,4 @@
-# React + Vite + Tailwind CSS
+# Tailwind CSS Practice
 Learning the basics of tailwind with the support of flexbox Froggy andsome online videos
 [🐸FlexBox Froggy](#FlexBox-Froggy)
 
