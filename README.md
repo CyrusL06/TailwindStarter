@@ -2,7 +2,7 @@
 Learning the basics of tailwind with the support of flexbox Froggy andsome online videos
 [🐸FlexBox Froggy](#FlexBox-Froggy)
 
-[🗺️Tailwind Layout](Tailwind-Layout)
+[🗺️Tailwind Layout](#Tailwind-Layout)
 
 [📈Tailwind Grid](#Tailwind-Grid)
 
