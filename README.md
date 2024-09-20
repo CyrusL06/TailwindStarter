@@ -1,5 +1,5 @@
 # React + Vite + Tailwind CSS
-[Tailwind Grid](# Tailwind Grid)
+[Tailwind Grid](#TailwindGrid)
 
 
 https://play.tailwindcss.com/ls2KCiwxBW
