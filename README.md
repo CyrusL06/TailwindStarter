@@ -1,6 +1,8 @@
 # React + Vite + Tailwind CSS
-[Tailwind Grid](#Tailwind-Grid)
-
+Learning the basics of tailwind with the support of flexbox Froggy andsome online videos
+[🐸FlexBox Froggy](#FlexBox-Froggy)
+[📈Tailwind Grid](#Tailwind-Grid)
+[🖼️Tailwind Design Practice + Picture](#Tailwind-Design-Practice-+-Picture)
 
 https://play.tailwindcss.com/ls2KCiwxBW
 
@@ -28,3 +30,5 @@ Laptop:
 Phone:
 
 ![Screenshot 2024-09-16 000534](https://github.com/user-attachments/assets/613c9432-5cac-4016-a4fa-fe6195e6d736)
+
+# Tailwind Design Practice + Picture
